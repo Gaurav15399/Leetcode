@@ -1,4 +1,4 @@
-package LeetCode_Problem540;
+package SingleElementInSortedArray_LeetCode_540;
 
 /*
 LeetCode URL - https://leetcode.com/problems/single-element-in-a-sorted-array/description/
